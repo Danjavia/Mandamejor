@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"label": {
+			"name": "label",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "label",
+			"order": 0
+		},
+		"dailygoal": {
+			"name": "dailygoal",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "dailygoal",
+			"order": 1
+		},
+		"geofence": {
+			"name": "geofence",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "geofence",
+			"order": 2
+		}
+	}
+}
