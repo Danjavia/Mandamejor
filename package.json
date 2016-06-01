@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Danjavia/Mandamejor#readme",
   "dependencies": {
     "deployd": "^0.8.8",
-    "dpd-email": "^0.2.0"
+    "dpd-email": "^0.2.0",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
   }
 }
