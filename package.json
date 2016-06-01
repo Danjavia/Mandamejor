@@ -1,0 +1,23 @@
+{
+  "name": "mandamejor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danjavia/Mandamejor.git"
+  },
+  "author": "Cristian Duque <anticris9303@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danjavia/Mandamejor/issues"
+  },
+  "homepage": "https://github.com/Danjavia/Mandamejor#readme",
+  "dependencies": {
+    "deployd": "^0.8.8",
+    "dpd-email": "^0.2.0"
+  }
+}

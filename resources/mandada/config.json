@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"group": {
+			"name": "group",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "group",
+			"order": 0
+		},
+		"user": {
+			"name": "user",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "user",
+			"order": 1
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "createdDate",
+			"order": 2
+		}
+	}
+}

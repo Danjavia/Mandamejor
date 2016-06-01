@@ -40,6 +40,22 @@
 			"required": true,
 			"id": "daysongoal",
 			"order": 4
+		},
+		"members": {
+			"name": "members",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "members",
+			"order": 5
+		},
+		"items": {
+			"name": "items",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "items",
+			"order": 6
 		}
 	}
 }

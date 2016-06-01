@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"group": {
+			"name": "group",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "group",
+			"order": 0
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "createdDate",
+			"order": 1
+		},
+		"validator": {
+			"name": "validator",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "validator",
+			"order": 2
+		}
+	}
+}
