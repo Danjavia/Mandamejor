@@ -21,9 +21,25 @@
 			"name": "geofence",
 			"type": "object",
 			"typeLabel": "object",
-			"required": false,
+			"required": true,
 			"id": "geofence",
 			"order": 2
+		},
+		"creator": {
+			"name": "creator",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "creator",
+			"order": 3
+		},
+		"daysongoal": {
+			"name": "daysongoal",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "daysongoal",
+			"order": 4
 		}
 	}
 }

@@ -1,1 +1,4 @@
 mandamejor/.dpd/
+mandamejor/data/*
+mandamejor/node_modules/
+mandamejor/resources/email/config.json
